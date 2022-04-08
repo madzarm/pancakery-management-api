@@ -1,0 +1,135 @@
+[
+	{
+		"id" : 1,
+		"healthy" : "0",
+		"name" : "Maple Syrup",
+		"price" : 5.6,
+		"type" : "DRESSING"
+	},
+	{
+		"id" : 2,
+		"healthy" : "1",
+		"name" : "Fresh Fruit",
+		"price" : 3.6,
+		"type" : "FRUIT"
+	},
+	{
+		"id" : 3,
+		"healthy" : "0",
+		"name" : "Whipped Cream",
+		"price" : 4,
+		"type" : "STUFFING"
+	},
+	{
+		"id" : 4,
+		"healthy" : "1",
+		"name" : "Fresh Berries",
+		"price" : 5,
+		"type" : "FRUIT"
+	},
+	{
+		"id" : 5,
+		"healthy" : "1",
+		"name" : "Bananas and Chocolate Chips",
+		"price" : 7,
+		"type" : "STUFFING"
+	},
+	{
+		"id" : 6,
+		"healthy" : "0",
+		"name" : "Nutella",
+		"price" : 10,
+		"type" : "BASE"
+	},
+	{
+		"id" : 7,
+		"healthy" : "1",
+		"name" : "Blueberry Sauce",
+		"price" : 4,
+		"type" : "STUFFING"
+	},
+	{
+		"id" : 8,
+		"healthy" : "1",
+		"name" : "Nuts",
+		"price" : 4,
+		"type" : "STUFFING"
+	},
+	{
+		"id" : 9,
+		"healthy" : "0",
+		"name" : "Ice Cream",
+		"price" : 3,
+		"type" : "STUFFING"
+	},
+	{
+		"id" : 10,
+		"healthy" : "1",
+		"name" : "Fruit Compote",
+		"price" : 7.5,
+		"type" : "FRUIT"
+	},
+	{
+		"id" : 11,
+		"healthy" : "1",
+		"name" : "Blueberry Syrup",
+		"price" : 7.5,
+		"type" : "FRUIT"
+	},
+	{
+		"id" : 12,
+		"healthy" : "0",
+		"name" : "Caramel Sauce",
+		"price" : 8.5,
+		"type" : "DRESSING"
+	},
+	{
+		"id" : 13,
+		"healthy" : "1",
+		"name" : "Jams",
+		"price" : 5,
+		"type" : "DRESSING"
+	},
+	{
+		"id" : 14,
+		"healthy" : "0",
+		"name" : "Peanut Butter",
+		"price" : 5,
+		"type" : "BASE"
+	},
+	{
+		"id" : 15,
+		"healthy" : "0",
+		"name" : "Bacon",
+		"price" : 10,
+		"type" : "BASE"
+	},
+	{
+		"id" : 16,
+		"healthy" : "0",
+		"name" : "Apple Butter",
+		"price" : 11,
+		"type" : "BASE"
+	},
+	{
+		"id" : 17,
+		"healthy" : "0",
+		"name" : "Sausage",
+		"price" : 15,
+		"type" : "BASE"
+	},
+	{
+		"id" : 18,
+		"healthy" : "1",
+		"name" : "Fried Apples",
+		"price" : 15,
+		"type" : "DRESSING"
+	},
+	{
+		"id" : 19,
+		"healthy" : "0",
+		"name" : "Burger Patty",
+		"price" : 15,
+		"type" : "STUFFING"
+	}
+]
